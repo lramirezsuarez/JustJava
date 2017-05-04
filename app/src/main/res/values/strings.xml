@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="price">Order Sumary</string>
+    <string name="simMenos" translatable="false">-</string>
+    <string name="simMas" translatable="false">+</string>
+    <string name="enviar">Send</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="extras">Topping</string>
+    <string name="pista">Write your name</string>
+    <string name="asunto">Just Java order for </string>
+    <string name="name">Name: </string>
+    <string name="sumQuantity">Quantity: </string>
+    <string name="adCrema">Add Whipped Cream: </string>
+    <string name="yes">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="adChoco">Add Chocolate: </string>
+    <string name="total" translatable="false">Total: </string>
+    <string name="thanks">Thank you!</string>
+</resources>
